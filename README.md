@@ -1,6 +1,6 @@
 Hello! My name is Bart and 
 
-- 🔭 I’m currently working on React weather app
+- 🔭 I’m currently working on flight search app (sort of like skyscanner) using React
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React
 - 🤔 I’m looking for help with React
