@@ -1,4 +1,6 @@
-Hello! My name is Bart and 
+<h2> Hey there! I'm Bart.</h2>
+
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on flight search app (sort of like skyscanner) using React
 - 🌱 I’m currently learning React
