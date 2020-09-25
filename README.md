@@ -8,6 +8,3 @@ Hello! My name is Bart and
 - 📫 How to reach me: Twitter: @bartkodes , Email: bkalanski@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DJ
-
-  name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
