@@ -9,3 +9,5 @@ Hello! My name is Bart and
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DJ
 
+  name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
