@@ -8,3 +8,7 @@ Hello! My name is Bart and
 - 📫 How to reach me: Twitter: @bartkodes , Email: bkalanski@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DJ
+
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
