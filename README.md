@@ -11,4 +11,4 @@ Hello! My name is Bart and
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartkalanski&show_icons=true)](https://github.com/bartkalanski)
