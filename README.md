@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on a full stack streaming service
+- 🔭 I’m currently working on a full stack bucket list app with authentication
 - 🌱 I’m currently learning Node
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Test-driven development
