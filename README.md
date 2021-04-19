@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 I’m currently working on a configuration wizard for Meshery
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning GraphQL
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with Test-driven development
 - 💬 Ask me about anything
