@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working at globalbridge
+- 🔭 I’m currently working at WorkNest
 - 🌱 I’m currently learning C#
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with .NET
