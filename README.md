@@ -13,4 +13,3 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartkalanski&show_icons=true)](https://github.com/bartkalanski)
