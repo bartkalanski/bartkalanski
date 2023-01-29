@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with .NET
 - 💬 Ask me about anything
-- 📫 How to reach me: Twitter: @bartkodes , Email: bkalanski@gmail.com
+- 📫 How to reach me: Twitter: @bartklnski , Email: bkalanski@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a DJ
 
