@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working at WorkNest
+- 🔭 I’m currently working at CTI Digital
 - 🌱 I’m currently learning DDD
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
